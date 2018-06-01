@@ -8,5 +8,5 @@ Can be used to get generate access tokens from facebook to use them in [FB Data 
 * `git clone https://github.com/scottydelta/fb_token_generator.git`
 * `cd fb_token_generator`
 * install [`Selenium`](https://pypi.python.org/pypi/selenium) using [`pip`](https://packaging.python.org/install_requirements_linux/#installing-pip-setuptools-wheel-with-linux-package-managers) 
-* install [`PhantomJS`](http://phantomjs.org/download.html)(on Mac, you can install using `homebrew`)
+* download latest [`chromedriver`](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * run the script using command `python generate_token.py` *`username`* *`password`*
